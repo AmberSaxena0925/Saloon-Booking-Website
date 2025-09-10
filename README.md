@@ -2,7 +2,7 @@
 A Salon Booking Website is an online platform that allows customers to easily book salon services such as haircuts, spa treatments, beauty services, and grooming appointments. The website provides details about available services, pricing, staff, and time slots. Customers can schedule, reschedule, or cancel their appointments, while salon owners can manage bookings, staff availability, and customer data efficiently.
 This system reduces waiting time, avoids double bookings, and improves overall customer experience by offering a 24/7 self-service booking option.
 
-📌 Workflow
+📌 Workflow:
 User Registration & Login
 Customer creates an account or logs in.
 Salon staff/admin have a separate dashboard.
